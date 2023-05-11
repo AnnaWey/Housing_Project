@@ -1,6 +1,7 @@
 # Column Names and descriptions for King County Data Set
 
-- **id** - unique identified for a house
+- **house_id** - unique identified for a house
+- **id** - market event 
 - **dateDate** - house was sold
 - **pricePrice** - is prediction target
 - **bedroomsNumber** - # of bedrooms
@@ -21,3 +22,4 @@
 - **long** - Longitude coordinate
 - **sqft_living15** - The square footage of interior housing living space for the nearest 15 neighbors
 - **sqft_lot15** - The square footage of the land lots of the nearest 15 neighbors
+- 22 columns

@@ -144,3 +144,6 @@ models/*.pkl
 
 # vscode Stuff
 .vscode
+
+#token 
+.mapbox_token
