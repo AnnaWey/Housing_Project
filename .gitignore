@@ -134,7 +134,7 @@ data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
-
+*.png
 # models
 models/*.pickle
 models/*.pkl
@@ -145,5 +145,6 @@ models/*.pkl
 # vscode Stuff
 .vscode
 
-#token 
+#token and notes
 .mapbox_token
+notes.ipynb
