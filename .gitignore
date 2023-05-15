@@ -139,6 +139,10 @@ data/*.json
 models/*.pickle
 models/*.pkl
 
+#graphics 
+graphics/*.pdf
+notes.ipynb
+
 # Mac Stuff
 .DS_Store
 
@@ -148,3 +152,5 @@ models/*.pkl
 #token and notes
 .mapbox_token
 notes.ipynb
+
+EDA.ipynb
